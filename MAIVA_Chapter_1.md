@@ -51,7 +51,7 @@ realize the expected returns from investment in AI. It is not unusual
 to expect 10x return on AI that improves the current processes or over
 50x return on AI that drives new business models. But none of that
 return can be realized if the investment in AI is ‘stuck’ in
-pre-production POC or MVP state. This playbook is designed to suggest
+pre-production Proof-of-Concept (PoC) or Minimum Viable Product (MVP) state. This playbook is designed to suggest
 some best practices for successful AI initiatives at scale.
 
  This playbook will provide:
@@ -113,7 +113,7 @@ comprehensive framework to manage AI investments through a cycle of:
   the diamond in the rough, the magic hiding among the muck.
 
 - **Experimentation and learning** are essential to prioritizing the
-  right AI investment ideas. This is where a POC might have some
+  right AI investment ideas. This is where a PoC might have some
   important contributions.
 
 - An **agile, product management** approach to development brings
